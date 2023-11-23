@@ -19,7 +19,7 @@ const BLOG = {
 
   AUTHOR: process.env.NEXT_PUBLIC_AUTHOR || '7号', // 您的昵称 例如 tangly1024
   BIO: process.env.NEXT_PUBLIC_BIO || '咕咕咕咕咕咕咕🕊️', // 作者简介
-  LINK: process.env.NEXT_PUBLIC_LINK || '这里是7号的鸽子窝', // 网站地址
+  LINK: process.env.NEXT_PUBLIC_LINK || 'gugu.7haogugugu.cn', // 网站地址
   KEYWORDS: process.env.NEXT_PUBLIC_KEYWORD || '咕咕咕,7号', // 网站关键词 英文逗号隔开
 
   // 社交链接，不需要可留空白，例如 CONTACT_WEIBO:''
