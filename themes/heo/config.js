@@ -33,8 +33,6 @@ const CONFIG = {
     '🔍 热衷于知识分享',
     '🐣 专业鸽子咕咕咕',
     '🐟 有时间就会摸鱼',
-    '🐒 没时间也会摸鱼',
-    '🦾 没话了凑一个数',
   ],
   HEO_INFO_CARD_URL: 'https://github.com/tangly1024/NotionNext', // 个人资料底部按钮链接
 
